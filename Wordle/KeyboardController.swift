@@ -42,7 +42,7 @@ class KeyboardController: NSObject,
     cell.configure(with: keyboardRows[indexPath.section][indexPath.row])
     // Exercise 4: Pass in the `didSelectString` closure to the KeyboardCell's corresponding property
     // START YOUR CODE HERE
-      cell.didSelectString = didSelectString
+      cell.didSelectString = self.didSelectString
     // END YOUR CODE HERE
     return cell
   }
