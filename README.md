@@ -26,15 +26,12 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-[Wordle](https://github.com/r-oli-m/MyWordle])
+![Wordle](https://github.com/r-oli-m/MyWordle])
 
 
 
 ## Notes
-(NOT DONE, need extension to complete lab)
-
-Describe any challenges encountered while building the app.
-
+Challenges include closure syntax & using UIColor/CGColor appropriately.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
