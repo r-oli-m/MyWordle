@@ -1,5 +1,4 @@
 # Project 1 - *Wordle*
-(NOT DONE, need extension to complete lab)
 
 Submitted by: **Reva Mahto**
 
@@ -8,7 +7,6 @@ Submitted by: **Reva Mahto**
 Time spent: **2** hours spent in total
 
 ## Required Features
-(NOT DONE, need extension to complete lab)
 
 The following **required** functionality is completed:
 
@@ -26,7 +24,10 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/G0fVT09" data-context="false" ><a href="//imgur.com/a/G0fVT09"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/G0fVT09" data-context="false">
+  <a href="//imgur.com/a/G0fVT09"></a>
+</blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
