@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![Wordle](https://github.com/r-oli-m/MyWordle])
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/G0fVT09" data-context="false" ><a href="//imgur.com/a/G0fVT09"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
