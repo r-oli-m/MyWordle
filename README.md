@@ -24,8 +24,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+[Imgur](https://imgur.com/imxZFNi)
 
-![Wordle](https://github.com/r-oli-m/MyWordle/assets/99136190/1e6edfa2-e1e7-4792-bc1f-3d73a6ac07e5)
+
 
 
 ## Notes
