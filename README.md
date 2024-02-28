@@ -26,11 +26,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-(NOT DONE, need extension to complete lab)
+https://github.com/r-oli-m/MyWordle/assets/99136190/29ccec5e-8d54-4835-ba7d-55c0f11be8e4
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 
 ## Notes
