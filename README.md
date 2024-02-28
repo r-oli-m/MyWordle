@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 [Imgur](https://imgur.com/imxZFNi)
 [img]https://i.imgur.com/imxZFNi.mp4[/img]
-![Imgur](https://imgur.com/imxZFNi)
-
+![Imgur](https://github.com/r-oli-m/MyWordle/assets/99136190/91b6bad7-3073-4713-87c0-f37f552eb05f)
 
 
 
