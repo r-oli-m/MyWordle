@@ -2,9 +2,9 @@
 
 Submitted by: **Reva Mahto**
 
-**Wordle** is an app that replicates Wordle
+**Wordle** is an app that replicates the New York Times game Wordle.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -24,18 +24,16 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/G0fVT09" data-context="false">
-  <a href="//imgur.com/a/G0fVT09"></a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+![Wordle](https://github.com/r-oli-m/MyWordle/assets/99136190/1e6edfa2-e1e7-4792-bc1f-3d73a6ac07e5)
 
 
 ## Notes
 Challenges include closure syntax & using UIColor/CGColor appropriately.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Reva Mahto]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
