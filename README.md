@@ -24,9 +24,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-[Imgur](https://imgur.com/imxZFNi)
-[img]https://i.imgur.com/imxZFNi.mp4[/img]
-![Imgur](https://github.com/r-oli-m/MyWordle/assets/99136190/91b6bad7-3073-4713-87c0-f37f552eb05f)
+![WordleDemo](/Users/reva/Desktop/ios101/ios101Labs/MyWordle/wordleDemo.mov)
 
 
 
