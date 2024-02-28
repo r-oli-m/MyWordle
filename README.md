@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-[Wordle][https://github.com/r-oli-m/MyWordle]
+[Wordle](https://github.com/r-oli-m/MyWordle])
 
 
 
