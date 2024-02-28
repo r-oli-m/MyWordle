@@ -24,9 +24,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<iframe src="https://giphy.com/embed/UmYMzUg0dZFskJ6yIT" width="230" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UmYMzUg0dZFskJ6yIT">via GIPHY</a></p>
-![Giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2loNTBwNHRmemhteGxuMzNzcmZ6dG9xd3FtMXEyaGg1MGFoeXM3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmYMzUg0dZFskJ6yIT/giphy.mp4)
-<div style="width:100%;height:0;padding-bottom:209%;position:relative;"><iframe src="https://giphy.com/embed/UmYMzUg0dZFskJ6yIT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UmYMzUg0dZFskJ6yIT">via GIPHY</a></p>
+![Giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2loNTBwNHRmemhteGxuMzNzcmZ6dG9xd3FtMXEyaGg1MGFoeXM3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmYMzUg0dZFskJ6yIT/giphy.gif)
+
 ## Notes
 Challenges include closure syntax & using UIColor/CGColor appropriately.
 
