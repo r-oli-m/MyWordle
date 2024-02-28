@@ -24,7 +24,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![Giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2loNTBwNHRmemhteGxuMzNzcmZ6dG9xd3FtMXEyaGg1MGFoeXM3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmYMzUg0dZFskJ6yIT/giphy.gif)
+![wordleDemo-ezgif com-video-to-gif-converter](https://github.com/r-oli-m/MyWordle/assets/99136190/b415ac10-0e1e-41b0-8dd6-2551c9514f8a)
+
+
 
 ## Notes
 Challenges include closure syntax & using UIColor/CGColor appropriately.
